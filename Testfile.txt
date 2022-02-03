@@ -1,5 +1,5 @@
 Test Case 1
-Step 1
+precondition
 Step 2
 Restore the steps
 
