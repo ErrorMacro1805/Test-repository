@@ -2,3 +2,6 @@ Test Case 1
 Step 1
 Step 2
 Restore the steps
+
+Commit new
+
