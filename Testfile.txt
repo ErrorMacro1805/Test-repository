@@ -1,4 +1,4 @@
-Test Case 1
+Test Case 123456
 Step 1
 Step 2
 Restore the steps
